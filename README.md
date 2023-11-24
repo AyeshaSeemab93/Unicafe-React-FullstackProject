@@ -83,15 +83,7 @@ To run the project locally, follow these steps:
    npm start
    ```
 
-5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to use the feedback system locally.
-
-## Contributing
-
-If you'd like to contribute to the project, please follow the [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+5. Open your browser and visit [http://localhost:3000](http://localhost:5173) to use the feedback system locally.
 
 ---
 
